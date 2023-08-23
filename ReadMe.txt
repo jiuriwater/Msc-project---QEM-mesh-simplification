@@ -1,6 +1,6 @@
-Note: Please running in the release mode in Visual studio, it will be much more faster!
+Note: The result of simplified model is called output_model.obj.
 
-Note: Please ensure you're running the application in Release mode in Visual Studio, it will be much more faster!.
+Note: Please ensure you're running the application in Release mode in Visual Studio, it will be much more faster!
 
 Controls:
 
